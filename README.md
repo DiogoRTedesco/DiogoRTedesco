@@ -3,7 +3,7 @@
 
 
 ### API's  👋
-- [ ] [ArquivoMorto](https://github.com/DiogoRTedesco/ArquivoMorto) 
+- [ ] [ArquivoMorto](https://github.com/DiogoRTedesco/arquivo-morto) 
 - [ ] [Authenticator](https://github.com/DiogoRTedesco/authenticator)
 <!--
 **DiogoRTedesco/DiogoRTedesco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
